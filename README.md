@@ -55,4 +55,3 @@ amazon-connect-redshift-analytics/
 └── README.md
 ```
 
-## 📁 Repository Structure
