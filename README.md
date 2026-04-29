@@ -21,7 +21,7 @@ Both views are designed to sit on top of a Redshift data warehouse with the foll
 
 ---
 
-## 🚀 Features
+## Features
 
 ### `v_metric_data`
 - Agent answer rate, occupancy, non‑response (with/without customer abandons)
@@ -43,6 +43,8 @@ Both views are designed to sit on top of a Redshift data warehouse with the foll
 ---
 
 ## Repository Structure
+
+```bash 
 amazon-connect-redshift-analytics/
 │
 ├── sql/
@@ -50,6 +52,7 @@ amazon-connect-redshift-analytics/
 │ └── v_metric_data.sql -- Semantic layer for agent & queue metrics
 │
 ├── LICENSE 
-└── README.md 
+└── README.md
+```
 
 ## 📁 Repository Structure
