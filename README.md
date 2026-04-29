@@ -127,5 +127,6 @@ amazon-connect-redshift-analytics/
 ├── sql/
 │   └── v_metric_data.sql
 │
+├── LICENSE
 │
 └── README.md
